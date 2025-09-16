@@ -12,5 +12,5 @@ Interactive spatiotemporal heatmap of earthquake events with Folium.
 
 Trend analysis of earthquake magnitudes and frequencies over time using Seaborn/Matplotlib.
 
-visualize interactive earthquake map: 
+Interactive earthquake map: 
 https://rbcc499.github.io/Earthquake-Data-Visualization-Analysis-USGS-API-/earthquake_map.html
